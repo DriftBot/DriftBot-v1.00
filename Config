@@ -1,13 +1,13 @@
 { "email": "email@email.com"
 , "password": "password"
-, "cid": "CID_028_Athena_Commando_F"
-, "bid": "BID_023_Pinkbear",
-"eid": "EID_NoDance",
-"pickaxe_id": "Pickaxe_Lockjaw",
+, "cid": "CID_161_ATHENA_COMMANDO_M_DRIFT"
+, "bid": "BID_004_BlackKnight",
+"eid": "EID_TrueLove",
+"pickaxe":          ",
 "banner": "otherbanner51",
-"banner_colour": "defaultcolor15",
-"level": 100,
-"bp_tier": 100,
+"banner_colour": "defaultcolor12",
+"level": 101,
+"bp_tier": 101,
 "status": "DriftBot",
 "platform": "IOS",
 "debug": false,
