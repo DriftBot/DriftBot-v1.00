@@ -23,7 +23,6 @@
         "toy_id",
         "id",
         "outfit",
-        "clear_outfit",
         "backpack",
         "pet",
         "clear_backpack",
@@ -48,5 +47,5 @@
         "petid_",
         "eid_",
         "emoji_",
-        "toy_"
+        
   
