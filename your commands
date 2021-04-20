@@ -1,8 +1,0 @@
-run= ("cid_039_athena_commando_F_Disco")
-/    command("sparkle")
-
-run= ("CID_029_Athena_Commando_F_Halloween")
-/    command("pinkghoul")
-= "set_variant outfit material 3"
-
-(more commands soon!)
