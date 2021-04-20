@@ -1,3 +1,0 @@
-const lobbybot = require('lobby-bot')
-const auth = ""
-obbybot.login(auth, "")
